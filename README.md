@@ -1,0 +1,1 @@
+This repository demonstrates a common issue in React Router v6: missing a catch-all route to handle unmatched paths.  Without a route to handle paths not explicitly defined, the application might display nothing or behave unexpectedly.  The solution shows how to add a catch-all route to gracefully handle 404 errors.
